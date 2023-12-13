@@ -3,7 +3,8 @@
   - Java , J2EE , Spring boot
   - Node js 
   - typescript 
-  - Python 
+  - Python
+  - GO
   - Flask 
   - Django 
   - REST APIs
@@ -13,8 +14,8 @@
   - Cloud Automation using terraform & Ansible 
   - CI/CD automation using Heroku/CircleCI/Jenkins
   - Microservice and Related challenges etc. (To name a few)
-- 🌱 I’m currently learning Angular, React framework, GraphQL and I'm working on enchnaing my story telling skill.
-- 💞️ I’m looking to collaborate on any Angular/React open source project.
+- 🌱 I’m currently learning GO and I'm working on enchnaing my story telling skill.
+- 💞️ I’m looking to collaborate on any GO open source project.
 - 📫 How to reach me mailto: debabrata6983@gmail.com
 - ⚡ Fun fact: 🤔 🐼
 - My Personal [GitHub Org](https://github.com/learningmyway) or My [Playgroud](https://github.com/learningmyway) for learning new skills
