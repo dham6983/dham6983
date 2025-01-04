@@ -19,6 +19,9 @@
 - 📫 How to reach me mailto: debabrata6983@gmail.com
 - ⚡ Fun fact: 🤔 🐼
 - My Personal [GitHub Org](https://github.com/learningmyway) or My [Playgroud](https://github.com/learningmyway) for learning new skills
+
+**ps: My commits from work are under GitHub Enterprise so they don't show up here even under private.**
+
 <!---
 dham6983/dham6983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -38,4 +41,3 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dham6983&theme=dark)](https://git.io/streak-stats)
 
-**ps: My commits from work are under GitHub Enterprise so they don't show up here even under private.**
